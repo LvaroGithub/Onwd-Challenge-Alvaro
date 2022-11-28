@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml:2:1-4:12
+	package
+		INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+		ADDED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml:2:1-4:12
+		INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml:2:1-4:12
+uses-sdk
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+		ADDED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+		INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+		ADDED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
+		INJECTED from /Users/alvaro/Downloads/apps_interview/devices/src/main/AndroidManifest.xml
